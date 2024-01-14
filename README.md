@@ -1,7 +1,7 @@
 # Numerical Computing
 The notebooks I worked on during the Numerical Computing course.
 
-They cover the following topics:
+## Topics covered
 1. **Linear systems**: Matrices, norms, LU factorization, Cholesky Factorization.
 2. **Singular value decomposition** with applications to **image compression**.
 3. **Linear least squares problem** and **polynomial regression**.
