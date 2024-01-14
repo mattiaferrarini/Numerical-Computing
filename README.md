@@ -7,5 +7,5 @@ They cover the following topics:
 3. **Linear least squares problem** and **polynomial regression**.
 4. **Nonlineare equations**: fixed-point iteration and Newton method.
 5. **Unconstrained optimization**: gradient descent and backtracking line search.
-6. **Image enhancement**: deblurring, denoising, Tikhonov regularization, total variation denoising.
-7. **Super resolution** of images.
+6. **Image enhancement**: deblurring, denoising, Tikhonov regularization.
+7. **Super resolution** of images and total variation denoising.
