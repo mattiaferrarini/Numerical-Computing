@@ -11,5 +11,5 @@ The notebooks I worked on during the Numerical Computing course at the Universit
 7. **Super resolution** of images and **total variation denoising**.
 
 ## Credits
-These notebooks are a completed and modified version of the ones created by ... as excerises for the Numerical Computing course at the University of Bologna. 
-`utils.py` and `utils_SR.py` were entirely made by ... and I have not modified them.
+These notebooks are a completed and modified version of the ones created by @sedaboni as exercises for the Numerical Computing course at the University of Bologna. 
+`utils.py` and `utils_SR.py` were entirely made by @sedaboni and I have not modified them.
