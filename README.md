@@ -2,7 +2,7 @@
 The notebooks I worked on during the Numerical Computing course at the University of Bologna.
 
 ## Topics covered
-1. **Linear systems**: matrices, norms, LU factorization, Cholesky Factorization.
+1. **Linear systems**: matrices, norms, LU factorization, Cholesky factorization.
 2. **Singular value decomposition** with applications to **image compression**.
 3. **Linear least squares problem** and **polynomial regression**.
 4. **Nonlineare equations**: fixed-point iteration and Newton method.
