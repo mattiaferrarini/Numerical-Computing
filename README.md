@@ -12,4 +12,3 @@ The notebooks I worked on during the Numerical Computing course at the Universit
 
 ## Credits
 These notebooks are a completed and modified version of the ones created by [@sedaboni](https://github.com/sedaboni) as exercises for the Numerical Computing course at the University of Bologna. 
-`utils.py` and `utils_SR.py` were entirely made by [@sedaboni](https://github.com/sedaboni) and I have not modified them.
